@@ -1,0 +1,14 @@
+@import url('./fonts.css');
+@import url('./reset-rems.css');
+@import url('./fonts.css');
+//Variables
+:root {
+  --fuentePrimaria: ;
+}
+
+/*Fonts*/
+.titleGame {
+  font-family: 'Press Start 2P', cursive;
+}
+
+/*Sizes*/
